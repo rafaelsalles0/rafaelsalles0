@@ -1,16 +1,37 @@
-## Rafael Salles
+# Olá, eu sou o Rafael Salles! 👋
 
-<!--
-**rafaelsalles0/rafaelsalles0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desenvolvedor Fullstack / Backend / Mobile
 
-Here are some ideas to get you started:
+Sou apaixonado por transformar café em código e resolver problemas complexos com soluções elegantes. Atualmente, estou focado em aprimorar minhas habilidades em **[Tecnologia que está estudando]** e contribuir para projetos de código aberto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ No que estou trabalhando?
+- 🔭 Atualmente trabalhando em **[Nome do Projeto Principal]**
+- 🌱 Aprendendo mais sobre **[Tecnologia X]** e **[Tecnologia Y]**
+- 💬 Pergunte-me sobre **[Assunto que você domina]**
+- 📫 Como me encontrar: **[Seu Email/LinkedIn]**
+
+---
+
+### 🧰 Minha Toolbox
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Python, JavaScript, TypeScript, Java |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | Node.js, FastAPI, PostgreSQL |
+| **Ferramentas** | Docker, Git, AWS, Linux |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&theme=radical)
+
+---
+
+### 🤝 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU-PERFIL])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[SEU-PERFIL])
