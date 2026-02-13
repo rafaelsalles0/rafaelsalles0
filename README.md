@@ -1,37 +1,40 @@
-# Olá, eu sou o Rafael Salles! 👋
+# Rafael Salles
 
-### 🚀 Desenvolvedor Fullstack / Backend / Mobile
+### Software Developer | Full Stack & DevOps
 
-Sou apaixonado por transformar café em código e resolver problemas complexos com soluções elegantes. Atualmente, estou focado em aprimorar minhas habilidades em **[Tecnologia que está estudando]** e contribuir para projetos de código aberto.
 
----
+ 
+🧑🏽‍💻 **Software Developer Full Stack**, com cerca de 5 anos de experiência na área de tecnologia. Atualmente, foco meu trabalho no desenvolvimento e na arquitetura de sistemas robustos, unindo a agilidade do desenvolvimento Full Stack com a eficiência de práticas DevOps para entregar soluções escaláveis e de alto impacto.
 
-### 🛠️ No que estou trabalhando?
-- 🔭 Atualmente trabalhando em **[Nome do Projeto Principal]**
-- 🌱 Aprendendo mais sobre **[Tecnologia X]** e **[Tecnologia Y]**
-- 💬 Pergunte-me sobre **[Assunto que você domina]**
-- 📫 Como me encontrar: **[Seu Email/LinkedIn]**
+📚 **Sobre mim**
 
----
+Sou formado em **Engenharia de Computação** pelo Instituto Federal do Sul de Minas (IFSULDEMINAS) e estou em fase de conclusão do **MBA em Engenharia de Software** pela USP/Esalq. 
+Acredito na engenharia como ferramenta para resolver problemas reais de forma inteligente. Sou apaixonado por arquitetar sistemas que não apenas funcionem, mas que sejam fáceis de manter e evoluir, sempre buscando as melhores práticas do mercado.
 
-### 🧰 Minha Toolbox
 
-| Categoria | Tecnologias |
+
+💻 **Conhecimento / Experiência**
+
+| Área | Competências |
 | :--- | :--- |
-| **Linguagens** | Python, JavaScript, TypeScript, Java |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, FastAPI, PostgreSQL |
-| **Ferramentas** | Docker, Git, AWS, Linux |
+| **Desenvolvimento** | Back-end (Python / Node) · Full Stack · DevOps |
+| **Back-end** | Python (Flask) · Node.js |
+| **Front-end** | Vue.js · React.js |
+| **Cloud & Infra** | Amazon Web Services (AWS) · Automação Industrial |
+| **Soft Skills** | Arquitetura de Sistemas · Resolução de Problemas Complexos · Visão de Produto |
 
 ---
 
-### 📊 Estatísticas do GitHub
+💼 **Trajetória e Projetos**
 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&theme=radical)
+| Empresa / Projeto | Tecnologias |
+| :--- | :--- |
+| **Grupo Unilumen** (Atual) | Desenvolvimento de sistemas gerais e projetos de automação para linhas industriais. |
+| **[Pradolux App](https://pradolux.app/)** | Projeto de destaque desenvolvido para o setor automotivo/industrial. |
 
 ---
 
-### 🤝 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU-PERFIL])
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[SEU-PERFIL])
+🤝 **Vamos nos conectar?**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafael-salles-895a04154)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI@gmail.com)
